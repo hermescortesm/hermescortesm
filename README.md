@@ -12,15 +12,14 @@ I am full stack web developer, QA and cyber security expert from Mexico.
 
 If you want talk with me about some project or see my complete info: [![Linkedin Badge](https://img.shields.io/badge/-Hermes%20Cortes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hermes-cortes/)
 
-I work on some frameworks/languages described below
----
-### :boom: Languages and tools:
-
 ---
 ### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hermescortesm&theme=dark&background=22272D)](https://git.io/streak-stats)
 ---
-### Languages, Frameworks and Tools
+
+I work on some frameworks/languages described below
+---
+### :boom: Languages and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
