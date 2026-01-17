@@ -14,7 +14,8 @@ If you want talk with me about some project or see my complete info: [![Linkedin
 
 ---
 ### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hermescortesm&theme=dark&background=22272D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hermescortesm)](https://git.io/streak-stats)
+
 ---
 
 I work on some frameworks/languages described below
